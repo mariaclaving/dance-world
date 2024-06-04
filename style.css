@@ -1,0 +1,53 @@
+body {
+  height: 200vh;
+  
+  background: linear-gradient(120deg, hsl(180, 100%, 50%), hsl(240, 42%, 47%));
+  
+}
+
+p {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style:italic;
+}
+  
+.DancingDog {
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+p2 {
+  font-size: 20px;
+}
+
+.DancingDog2 {
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+.DancingPanda {
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+.DancingCat {
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+.DancingDog3 {
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 50%;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+
+
